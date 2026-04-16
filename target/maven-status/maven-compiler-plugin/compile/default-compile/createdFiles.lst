@@ -1,0 +1,4 @@
+edu\brooklyn\cisc3130\taskboard\controller\TaskController.class
+edu\brooklyn\cisc3130\taskboard\model\Task.class
+edu\brooklyn\cisc3130\taskboard\CampusTaskboardApplication.class
+edu\brooklyn\cisc3130\taskboard\service\TaskService.class
